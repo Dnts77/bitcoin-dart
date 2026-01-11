@@ -1,0 +1,5 @@
+*.cmake linguist-ignore
+CmakeLists.txt linguist-ignore
+
+*.cpp linguist-ignore
+*.h linguist-ignore
