@@ -2,3 +2,5 @@ windows/** linguist-vendored
 build/** linguist-vendored
 .dart_tool/** linguist-vendored
 .idea/** linguist-vendored
+
+*.dart linguist-language=Dart
